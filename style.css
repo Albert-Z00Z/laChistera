@@ -53,7 +53,7 @@ video {
 }
 
 /* Ajuste de tamaño para dispositivos móviles */
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 720px) {
     video {
         width: 100%;
         height: auto;
